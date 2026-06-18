@@ -24,5 +24,5 @@ This repository contains my work for a machine learning assignment covering two 
 ## Why this is public
 I’m sharing this as part of my learning portfolio to demonstrate end‑to‑end ML pipeline skills: data cleaning, feature encoding, handling imbalance, model training, hyperparameter tuning, and evaluation.
 
-*Assignment date: [Month/Year]*  
-*Course: [Course Name if you want]*
+*Assignment date: [June/2026]*  
+*Course: [ML - Prof. Shamsollahi]*
