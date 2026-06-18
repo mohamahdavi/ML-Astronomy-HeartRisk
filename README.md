@@ -1,2 +1,2 @@
 # ML-Astronomy-HeartRisk
-End-to-end machine learning pipelines for celestial object classification (star, galaxy, quasar) and early cardiovascular risk prediction. Includes SVM, Logistic Regression, Perceptron, MLP, Decision Trees, and full model evaluation.
+Machine Learning homework: star/quasar/galaxy classification and heart attack risk prediction using SVM, Logistic Regression, Perceptron, MLP, and Decision Trees.
