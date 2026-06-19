@@ -24,5 +24,12 @@ This repository contains my work for a machine learning assignment covering two 
 ## Why this is public
 I’m sharing this as part of my learning portfolio to demonstrate end‑to‑end ML pipeline skills: data cleaning, feature encoding, handling imbalance, model training, hyperparameter tuning, and evaluation.
 
-*Assignment date: [June/2026]*  
-*Course: [ML - Prof. Shamsollahi]*
+## Course Details
+- **Course:** Introduction to Machine Learning (25737) , Electrical Engineering Department, Sharif University of Technology
+- **Instructor:** Prof. Mohammad Bagher Shamsollahi
+- **Date:** June 2026 
+
+## Author
+- Mohammad Reza Mahdavi
+
+*Status: Completed*
